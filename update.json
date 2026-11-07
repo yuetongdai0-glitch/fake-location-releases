@@ -1,14 +1,14 @@
 {
   "appId": "com.rz.fake_location",
-  "versionName": "1.0.2",
-  "versionCode": 3,
-  "publishedAt": "2026-11-07T08:54:33.582Z",
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "publishedAt": "2026-11-07T08:56:27.697Z",
   "android": {
-    "versionName": "1.0.2",
-    "versionCode": 3,
+    "versionName": "1.0.3",
+    "versionCode": 4,
     "minSdk": 24,
     "apkBytes": 51843526,
-    "sha256": "ba1f08805010f84586ee5d0f120c36fe249f1b5be2f7d29842286a10b30f4f4a",
-    "apkUrl": "https://yuetongdai0-glitch.github.io/fake-location-releases/releases/android/latest.apk?v=3"
+    "sha256": "8eff46cef93f331b3c47548e77d3d55ae3fe56212ff9024aaefbbb66c001e39a",
+    "apkUrl": "https://yuetongdai0-glitch.github.io/fake-location-releases/releases/android/latest.apk?v=4"
   }
 }
